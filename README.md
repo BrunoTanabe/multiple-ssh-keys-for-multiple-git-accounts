@@ -2,7 +2,7 @@
 
 ![Banner](./images/banner.png)
 
-- [See on Medium](https://medium.com/@tanabebruno/como-configurar-duas-ou-mais-chaves-ssh-para-ter-diversas-contas-git-no-mesmo-computador-b9567621ce13)
+- [See on Medium](https://medium.com/@tanabebruno/how-to-set-up-two-or-more-ssh-keys-to-manage-multiple-git-accounts-on-the-same-computer-ca2767753646)
 - [See in Portuguese](README-PTBR.md)
 
 If you've ever tried to manage more than one account on **GitHub**, **GitLab**, or any other version control service, you know it can be a challenge. One moment you're contributing to a personal project, the next you need to make a serious commit to your work account, and then... ❌ *“Permission denied (publickey)”*. Git simply doesn't know which key to use, and you're there, switching accounts, copying and pasting commands, or worse, logging in and out all the time. 😩
@@ -15,9 +15,9 @@ So, let’s solve these permission issues and get everything running smoothly? �
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents 📌
 
-🔍 **Let’s see what you’ll find in this guide?**
+**Let’s see what you’ll find in this guide?**
 
 - [1. Why might you need multiple SSH keys? :key:](#1-why-might-you-need-multiple-ssh-keys-key)
 - [2️. What are SSH keys and how do they work? :gear:](#2️-what-are-ssh-keys-and-how-do-they-work-gear)
@@ -620,7 +620,7 @@ When you sign a commit with GPG, it appears on GitHub, GitLab, or Bitbucket with
 
 If you want to learn how to generate, configure, and use GPG keys across multiple accounts (following the same simple approach), I also wrote an article on Medium about it. Here’s the link:
 
-[Configuração de Chaves GPG para múltiplas contas Git (still under development)](https://medium.com/@tanabebruno)
+[Setting up GPG Keys for Multiple Git Accounts (still under development)](https://medium.com/@tanabebruno)
 
 That way, you’ll have your machine 100% secured and ready for any scenario. 🛡️
 
