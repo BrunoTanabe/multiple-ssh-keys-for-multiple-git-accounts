@@ -15,9 +15,9 @@ Então, bora acabar com esses problemas de permissão e deixar tudo rodando suav
 
 ---
 
-## 📌 Sumário
+## Sumário 📌 
 
-🔍 **Bora ver o que você vai ver nesse guia?**
+**Bora ver o que você vai ver nesse guia?**
 
 - [1. Por que você pode precisar de várias chaves SSH? :key:](#1-por-que-você-pode-precisar-de-várias-chaves-ssh-key)
 - [2️. O que são chaves SSH e como funcionam? :gear:](#2️-o-que-são-chaves-ssh-e-como-funcionam-gear)
